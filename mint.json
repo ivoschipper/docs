@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://storage.googleapis.com/msgsndr/aSxzU7PBySQqmlAqeFKh/media/660904ee7abcb95832b472e0.png",
+    "light": "https://msgsndr-private.storage.googleapis.com/companyPhotos/5a1e5fc6-4e59-4cc5-97d9-690d2ef6e54f.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
